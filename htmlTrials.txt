@@ -9,3 +9,5 @@ Pages:
 sidebar: https://www.w3schools.com/code/tryit.asp?filename=G9YB391BUQUQ
 
 Cafe Template: https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_cafe
+
+Food Blog Template: https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_food_blog&stacked=h
