@@ -1,5 +1,4 @@
 Pages:
--Login
 -Home
 -Profile
 -Settings
@@ -12,3 +11,5 @@ Cafe Template: https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templ
 Food Blog Template: https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_food_blog&stacked=h
 
 create account: https://www.w3schools.com/code/tryit.asp?filename=G9ZDJ3JVA4A5
+
+login: https://www.w3schools.com/code/tryit.asp?filename=G9ZJH5M8GDYF
