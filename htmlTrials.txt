@@ -19,12 +19,15 @@ Home: https://www.w3schools.com/code/tryit.asp?filename=G07JE45X5HK4
 Create a recipe: https://www.w3schools.com/code/tryit.asp?filename=G07L5VA2VB7O
 
 Profile: https://www.w3schools.com/code/tryit.asp?filename=G08IID36C4S7
+  - based/integrated with the Food Blog Template style
+  - pictures not showing up for some reason, but they are just placeholders
+  - format can be changed to match home
 
 Search (drop-down): https://www.w3schools.com/code/tryit.asp?filename=G08IIU0WO3QZ
 
 Search (large buttons): https://www.w3schools.com/code/tryit.asp?filename=G08IJEWGENXQ search
 
-OTHER:
+OTHER RANDOM LINKS:
 
 Meet The Team Template/Example (copy format with buttons?): https://www.w3schools.com/howto/howto_css_team.asp
 Meet The Team Template/Example (Try It Code): https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_team
