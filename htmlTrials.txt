@@ -15,3 +15,5 @@ create account: https://www.w3schools.com/code/tryit.asp?filename=G077H5LLJ54R
 login: https://www.w3schools.com/code/tryit.asp?filename=G9ZJH5M8GDYF
 
 Home: https://www.w3schools.com/code/tryit.asp?filename=G07JE45X5HK4
+
+Create a recipe: https://www.w3schools.com/code/tryit.asp?filename=G07L5VA2VB7O
