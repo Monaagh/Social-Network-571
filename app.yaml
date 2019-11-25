@@ -1,0 +1,15 @@
+runtime: php73 # Replace with php73 to use the PHP 7.3 runtime
+
+
+handlers:
+- url: /.*
+  script: auto
+
+
+
+
+env_variables:
+    MYSQL_DSN: 
+    MYSQL_USER: "root"
+    MYSQL_PASSWORD: ""
+
